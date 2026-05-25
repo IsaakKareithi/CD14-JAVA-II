@@ -1,5 +1,5 @@
 class Parent{
-    public void sayyHello(){
+    public void sayHello(){
         System.out.println("Hello from Parent");
     }
 }
