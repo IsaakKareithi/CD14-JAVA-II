@@ -1,4 +1,4 @@
-public class C4ShapeArea {
+class C4ShapeArea {
     public double getArea(){
         return 0;
     }
